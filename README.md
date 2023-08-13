@@ -1,4 +1,7 @@
 # Road Sign and Traffic Light Detection
+<div align = 'center'> 
+	<img src ='https://github.com/mchockal/road_sign_traffic_light_detection/blob/main/result_use_cases.png' alt="Road sign and traffic light detection under different use cases">
+</div>
 
 ## 1. Description:
 Detect and classify road signs and traffic lights without using deep learning \
